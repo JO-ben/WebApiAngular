@@ -1,26 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ildef\\source\\repos\\Angular.NetCore2.2EF2.2UdemyKursik\\DatingAppv5\\DatingApp.API\\DatingApp.API.csproj": {}
+    "C:\\Users\\SyczacaKobraTango\\source\\repos\\DatingAppv5\\WebApiAngular\\DatingApp.API\\DatingApp.API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ildef\\source\\repos\\Angular.NetCore2.2EF2.2UdemyKursik\\DatingAppv5\\DatingApp.API\\DatingApp.API.csproj": {
+    "C:\\Users\\SyczacaKobraTango\\source\\repos\\DatingAppv5\\WebApiAngular\\DatingApp.API\\DatingApp.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ildef\\source\\repos\\Angular.NetCore2.2EF2.2UdemyKursik\\DatingAppv5\\DatingApp.API\\DatingApp.API.csproj",
+        "projectUniqueName": "C:\\Users\\SyczacaKobraTango\\source\\repos\\DatingAppv5\\WebApiAngular\\DatingApp.API\\DatingApp.API.csproj",
         "projectName": "DatingApp.API",
-        "projectPath": "C:\\Users\\ildef\\source\\repos\\Angular.NetCore2.2EF2.2UdemyKursik\\DatingAppv5\\DatingApp.API\\DatingApp.API.csproj",
-        "packagesPath": "C:\\Users\\ildef\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ildef\\source\\repos\\Angular.NetCore2.2EF2.2UdemyKursik\\DatingAppv5\\DatingApp.API\\obj\\",
+        "projectPath": "C:\\Users\\SyczacaKobraTango\\source\\repos\\DatingAppv5\\WebApiAngular\\DatingApp.API\\DatingApp.API.csproj",
+        "packagesPath": "C:\\Users\\SyczacaKobraTango\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\SyczacaKobraTango\\source\\repos\\DatingAppv5\\WebApiAngular\\DatingApp.API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\",
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\ildef\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\SyczacaKobraTango\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp2.2"

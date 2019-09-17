@@ -26,6 +26,8 @@ import { MemberDetailResolver } from './_resolvers/member-detail.resolver';
 import { MemberListResolver } from './_resolvers/member-list.resolver';
 import { MemberEditComponent } from './members/member-card/member-edit/member-edit.component';
 import { MemberEditResolver } from './_resolvers/member-edit.resolver';
+import { TreeModule } from 'angular-tree-component';
+import { HienaComponent } from './hiena/hiena.component';
 
 export function tokenGetter() {
   return localStorage.getItem('token');
@@ -48,7 +50,8 @@ export class CustomHammerConfig extends HammerGestureConfig {
     MessagesComponent,
     MemberCardComponent,
     MemberDetailComponent,
-    MemberEditComponent
+    MemberEditComponent, 
+    HienaComponent
   ],
   imports: [
     BrowserModule,
@@ -59,6 +62,7 @@ export class CustomHammerConfig extends HammerGestureConfig {
     TabsModule.forRoot(),
     RouterModule.forRoot(appRoutes),
     NgxGalleryModule,
+    TreeModule.forRoot(),
     JwtModule.forRoot({
       config: {
         tokenGetter: tokenGetter,

@@ -124,3 +124,17 @@ C:\Users\ildef\source\repos\Angular.NetCore2.2EF2.2UdemyKursik\DatingAppv5\Datin
 C:\Users\ildef\source\repos\Angular.NetCore2.2EF2.2UdemyKursik\DatingAppv5\DatingApp.API\obj\Debug\netcoreapp2.2\DatingApp.API.RazorTargetAssemblyInfo.cache
 C:\Users\ildef\source\repos\Angular.NetCore2.2EF2.2UdemyKursik\DatingAppv5\DatingApp.API\obj\Debug\netcoreapp2.2\DatingApp.API.dll
 C:\Users\ildef\source\repos\Angular.NetCore2.2EF2.2UdemyKursik\DatingAppv5\DatingApp.API\obj\Debug\netcoreapp2.2\DatingApp.API.pdb
+C:\Users\SyczacaKobraTango\source\repos\DatingAppv5\WebApiAngular\DatingApp.API\bin\Debug\netcoreapp2.2\DatingApp.API.deps.json
+C:\Users\SyczacaKobraTango\source\repos\DatingAppv5\WebApiAngular\DatingApp.API\bin\Debug\netcoreapp2.2\DatingApp.API.runtimeconfig.json
+C:\Users\SyczacaKobraTango\source\repos\DatingAppv5\WebApiAngular\DatingApp.API\bin\Debug\netcoreapp2.2\DatingApp.API.runtimeconfig.dev.json
+C:\Users\SyczacaKobraTango\source\repos\DatingAppv5\WebApiAngular\DatingApp.API\bin\Debug\netcoreapp2.2\DatingApp.API.dll
+C:\Users\SyczacaKobraTango\source\repos\DatingAppv5\WebApiAngular\DatingApp.API\bin\Debug\netcoreapp2.2\DatingApp.API.pdb
+C:\Users\SyczacaKobraTango\source\repos\DatingAppv5\WebApiAngular\DatingApp.API\obj\Debug\netcoreapp2.2\DatingApp.API.csprojAssemblyReference.cache
+C:\Users\SyczacaKobraTango\source\repos\DatingAppv5\WebApiAngular\DatingApp.API\obj\Debug\netcoreapp2.2\DatingApp.API.csproj.CoreCompileInputs.cache
+C:\Users\SyczacaKobraTango\source\repos\DatingAppv5\WebApiAngular\DatingApp.API\obj\Debug\netcoreapp2.2\DatingApp.API.RazorAssemblyInfo.cache
+C:\Users\SyczacaKobraTango\source\repos\DatingAppv5\WebApiAngular\DatingApp.API\obj\Debug\netcoreapp2.2\DatingApp.API.RazorAssemblyInfo.cs
+C:\Users\SyczacaKobraTango\source\repos\DatingAppv5\WebApiAngular\DatingApp.API\obj\Debug\netcoreapp2.2\DatingApp.API.AssemblyInfoInputs.cache
+C:\Users\SyczacaKobraTango\source\repos\DatingAppv5\WebApiAngular\DatingApp.API\obj\Debug\netcoreapp2.2\DatingApp.API.AssemblyInfo.cs
+C:\Users\SyczacaKobraTango\source\repos\DatingAppv5\WebApiAngular\DatingApp.API\obj\Debug\netcoreapp2.2\DatingApp.API.RazorTargetAssemblyInfo.cache
+C:\Users\SyczacaKobraTango\source\repos\DatingAppv5\WebApiAngular\DatingApp.API\obj\Debug\netcoreapp2.2\DatingApp.API.dll
+C:\Users\SyczacaKobraTango\source\repos\DatingAppv5\WebApiAngular\DatingApp.API\obj\Debug\netcoreapp2.2\DatingApp.API.pdb
